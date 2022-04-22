@@ -18,11 +18,15 @@
     "skills": [
       {
         "name": "Html, Css, Javascript",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "ReactJs",
-        "level": "60%"
+        "level": "55%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "53%"
       },
       {
         "name": "C#",
@@ -38,11 +42,11 @@
       },
       {
         "name": "PHP et Symphony",
-        "level": "45%"
+        "level": "43%"
       },
       {
         "name": "Python",
-        "level": "70%"
+        "level": "65%"
       },
       {
         "name": "Kotlin",

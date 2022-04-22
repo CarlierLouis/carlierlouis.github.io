@@ -31,7 +31,7 @@ class Portfolio extends Component {
          <div className="twelve columns collapsed">
 
             <h2 style={{textAlign: 'center'}}>Portfolio</h2>
-            <p style={{textAlign: 'center'}} >Voici quelques activités valorisables pour mon portfolio que j'ai réalisé durant mon bachelier</p>
+            <p style={{textAlign: 'center'}} >Voici quelques activités valorisables pour mon portfolio que j'ai réalisées durant mon bachelier</p>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
