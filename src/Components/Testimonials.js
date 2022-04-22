@@ -15,9 +15,10 @@ class Testimonials extends Component {
             </div>
 
             <div className="ten columns flex-container">
+               
                   <ul className="slides">
                         <p style={{color: 'white'}}>Dès le début de mon bachelier, 
-                           j'ai su que je voulais me tourner vers la programmtion et devenir développeur après mes études.
+                           j'ai su que je voulais me tourner vers la programmation et devenir développeur après mes études.
                            J'ai d'ailleurs réalisé mon stage de fin de Bachelier dans ce domaine et cette expérience
                             n'a fait que renforcer mon objectif de me tourner vers cette voie.<br></br><br></br>
                             Cependant, j'ai pour ambition de d'abord faire un Master en sciences informatiques à l'UCL 
