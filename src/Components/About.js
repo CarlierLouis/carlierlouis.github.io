@@ -35,7 +35,9 @@ class About extends Component {
                <br></br><br></br>
                <div className="columns download">
                   <p>
-                     <a href="data/CV.pdf" target="_blank" type="application/pdf" className="button"><i className="fa fa-download"></i>Mon CV version pdf</a>
+                  <object data="https://carlierlouis.github.io/data/CV.pdf" type="application/pdf" width="100%" height="100%">
+                     <a href="https://carlierlouis.github.io/data/CV.pdf" target="_blank" className="button"><i className="fa fa-download"></i>Mon CV version pdf</a>
+                 </object>
                   </p>
                </div>
             </div>
