@@ -8,6 +8,7 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import { HashRouter} from "react-router-dom";
 
 class App extends Component {
 
@@ -44,6 +45,7 @@ class App extends Component {
 
   render() {
     return (
+      <React.Fragment>
       <div className="App">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
@@ -52,6 +54,7 @@ class App extends Component {
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Footer data={this.state.resumeData.main}/>
       </div>
+      </React.Fragment>
     );
   }
 }
