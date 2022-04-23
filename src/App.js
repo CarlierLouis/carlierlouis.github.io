@@ -8,7 +8,6 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
-import { HashRouter} from "react-router-dom";
 
 class App extends Component {
 
