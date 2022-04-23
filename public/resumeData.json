@@ -64,7 +64,7 @@
       },
       {
         "title": "Hackaton EPHEC 2021",
-        "category": "J'ai participé au Hackaton 2021 organisé à l'EPHEC de LLN sur le thème du développement durable.",
+        "category": "J'ai participé au Hackaton 2021 organisé à l'EPHEC de LLN sur le thème du développement durable. Ce fut l'occasion d'échanger avec les étudiants des autres années sur des sujets liés au développement et de comment mettre l'IT au service d'un mode de vie plus durable.",
         "image": "hackaton.jpg",
         "url": "data/preuve-Hackaton-EPHEC-2021.pdf"
       },
@@ -94,7 +94,7 @@
       },
       {
         "title": "Formation OpenClassrooms Git et Github",
-        "category": "J'ai suivi une formation OpenClassrooms sur l'utilisation de Git et Github.",
+        "category": "J'ai suivi une formation OpenClassrooms sur l'utilisation de Git et Github. Le but étant de renforcer mes bonnes pratiques sur l'utilisation de cet outil indispensable dans le monde du développement.",
         "image": "git.png",
         "url": "data/"
       },
