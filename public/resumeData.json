@@ -60,49 +60,49 @@
         "title": "DevDays 2021",
         "category": "J'ai participé au salon DevDays 2021 se déroulant à LLN. J'ai eu l'occasion d'assister à de nombreuses conférences et pu discuter avec plusieurs représentants de diverses entreprises.",
         "image": "devdays.jpg",
-        "url": "./data/preuve-DevDays.pdf"
+        "url": "https://carlierlouis.github.io/data/preuve-DevDays.pdf"
       },
       {
         "title": "Hackaton EPHEC 2021",
         "category": "J'ai participé au Hackaton 2021 organisé à l'EPHEC de LLN sur le thème du développement durable. Ce fut l'occasion d'échanger avec les étudiants des autres années sur des sujets liés au développement et de comment mettre l'IT au service d'un mode de vie plus durable.",
         "image": "hackaton.jpg",
-        "url": "./data/preuve-Hackaton-EPHEC-2021.pdf"
+        "url": "https://carlierlouis.github.io/data/preuve-Hackaton-EPHEC-2021.pdf"
       },
       {
         "title": "Cyber Security Challenge Belgium 2021",
         "category": "J'ai participé au Cyber Security Challenge 2021 organisé en distantiel cette année là.",
         "image": "cybersecuritychallenge.jpg",
-        "url": "./data/preuve-CSC2021.pdf"
+        "url": "https://carlierlouis.github.io/data/preuve-CSC2021.pdf"
       },
       {
         "title": "Formation Udemy MERN Stack",
         "category": "J'ai suivi une formation Udemy en ligne sur les technologies MongoDB, ExpressJs, NodeJs et ReactJs.",
         "image": "MERN.png",
-        "url": "./data/preuve-Udemy-MERN.pdf"
+        "url": "https://carlierlouis.github.io/data/preuve-Udemy-MERN.pdf"
       },
       {
         "title": "Formation Udemy C#",
         "category": "J'ai suivi une formation en ligne sur l'apprentissage du C#. Mon maitre de stage m'a partagé ses identifiants Udemy afin de pouvoir m'auto-former sur ce language que j'ai utilisé durant mon stage.",
         "image": "Csharp.png",
-        "url": "./data/preuve-Udemy-CSharp.pdf"
+        "url": "https://carlierlouis.github.io/data/preuve-Udemy-CSharp.pdf"
       },
       {
         "title": "Formation Udemy Data Science avec Python",
         "category": "J'ai suivi une formation Udemy en ligne sur le thème de l'analyse de données avec Python.",
         "image": "python.png",
-        "url": "./data/"
+        "url": "https://carlierlouis.github.io/data/data/"
       },
       {
         "title": "Formation OpenClassrooms Git et Github",
         "category": "J'ai suivi une formation OpenClassrooms sur l'utilisation de Git et Github. Le but étant de renforcer mes bonnes pratiques sur l'utilisation de cet outil indispensable dans le monde du développement.",
         "image": "git.png",
-        "url": "./data/"
+        "url": "https://carlierlouis.github.io/data/data/"
       },
       {
         "title": "Tableau récapitulatif",
         "category": "",
         "image": "preuves.jpg",
-        "url": "./data/Tableau-preuves.pdf"
+        "url": "https://carlierlouis.github.io/data/data/Tableau-preuves.pdf"
       }
     ]
   }
