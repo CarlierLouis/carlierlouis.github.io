@@ -8,7 +8,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src="" alt="Carlier Louis Photo" />
+            <img style={{width: '100%', height: '100%'}} className="profile-pic"  src="./images/Moi.JPG" alt="Carlier Louis Photo" />
          </div>
          <div className="nine columns main-col">
             <h2>À propos de moi</h2>
