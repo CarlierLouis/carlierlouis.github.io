@@ -57,7 +57,7 @@ SmartSkills à Gembloux (février 2022 - mai 2022).</p>
             </p>
 
 				<div className="bars">
-        <h5>Voici une liste non exhaustive de différents languages que j'ai été amené a utiliser</h5><br></br>
+        <h5>Voici une liste non exhaustive de différents langages que j'ai été amené à utiliser: </h5><br></br>
 				   <ul className="skills">
 					  {skills}
 					</ul>
