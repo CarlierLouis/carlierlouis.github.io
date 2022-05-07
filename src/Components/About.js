@@ -14,7 +14,7 @@ class About extends Component {
             <h2>À propos de moi</h2>
             <p>Je suis en dernière année de bachelier en technologie de l'informatique à L'EPHEC de Louvain-la-Neuve.
                 Durant mon cursus, j'ai eu l'occasion d'aborder de nombreux aspects au nieavu IT. Mais dès le début de ma formation,
-                mon attention s'est portée sur la programmtion et le développement. J'ai pour objectif de devenir développeur après mes études.
+                mon attention s'est portée sur la programmtion et le développement. J'ai donc pour objectif de travailler en tant que développeur après mes études.
             <hr></hr>
             <ul>
                <li>Age: 21</li>

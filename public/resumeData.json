@@ -57,52 +57,60 @@
   "portfolio": {
     "projects": [
       {
-        "title": "DevDays 2021",
-        "category": "J'ai participé au salon DevDays 2021 se déroulant à LLN. J'ai eu l'occasion d'assister à de nombreuses conférences et pu discuter avec plusieurs représentants de diverses entreprises.",
+        "title": "DevDay 2021",
+        "category": "J'ai participé au salon DevDay 2021 se déroulant à LLN.",
         "image": "devdays.jpg",
-        "url": "./data/preuve-DevDays.pdf"
+        "url": "./data/preuve-DevDays.pdf",
+        "description": "Le DevDay est un salon/meeting se déroulant au cinéscope de Louvain-la-Neuve réunissant des développeurs, étudiants et passionnés du monde du développement et de l'IT. Au cours de cette journée, de nombreuses conférences sont réalisées et les visiteurs doivent se conffectionner leur propre programme car il est impossible d'assister à toutes les activités. De nombreux stands avec des représentants de différentes entreprises sont également présents. C'est l'occasion de participer aux activités et jeux-concours que ceux-ci organisent. Ce sont des moments très intéressants car en tant qu'étudiant nous avons directement la chance d'échanger avec les entreprises. Ce fut une très bonne opportunité car j'ai pu profiter d'une place offerte par l'EPHEC alors que en tant normal le ticket d'entré est très onéreux. Ce fut une longue journée très enrichissante qui m'a permis d'étendre mes horizons et de me rendre un peu plus compte de la multitudes d'opportunités qui s'ouvrent à moi dans le domaine du développement."
       },
       {
         "title": "Hackaton EPHEC 2021",
-        "category": "J'ai participé au Hackaton 2021 organisé à l'EPHEC de LLN sur le thème du développement durable. Ce fut l'occasion d'échanger avec les étudiants des autres années sur des sujets liés au développement et de comment mettre l'IT au service d'un mode de vie plus durable.",
+        "category": "J'ai participé au Hackaton 2021 organisé à l'EPHEC de LLN sur le thème du développement durable.",
         "image": "hackaton.jpg",
-        "url": "./data/preuve-Hackaton-EPHEC-2021.pdf"
+        "url": "./data/preuve-Hackaton-EPHEC-2021.pdf",
+        "description": "En 2021, l'EPHEC de Louvain-la-Neuve a organisé un Hackaton sur le thème du développement durable. Cet événement s'est déroulé durant tou un week-end au sein même de l'EPHEC. Ce fut l'occasion d'échanger avec les professeurs, étudiants (toutes années confondues) et autres intervenants externes sur des sujets liés au développement et de comment mettre l'IT au service d'un mode de vie plus durable. En plus de représenter des petits challenges techniques, tous les projets et sujets choisis par les différents groupes ont permis d'ouvrir le débat et de réfléchir ensemble sur qui est possible de réaliser ou non avec l'IT au niveau du développement durable. Ce fut mon premier Hackaton et une très bonne expérience, je suis déçu de n'avoir pas essayé un événement de ce type plus tôt lors mon cursus."
       },
       {
         "title": "Cyber Security Challenge Belgium 2021",
-        "category": "J'ai participé au Cyber Security Challenge 2021 organisé en distantiel cette année là.",
+        "category": "J'ai participé au Cyber Security Challenge Belgium 2021 organisé en distantiel cette année là.",
         "image": "cybersecuritychallenge.jpg",
-        "url": "./data/preuve-CSC2021.pdf"
+        "url": "./data/preuve-CSC2021.pdf",
+        "description": "Le Cyber Security Challenge Belgium est un événememnt qui comme son nom l'indique est centré sur la thème de la cybersécuritée. C'est une sorte de compétition au cours de laquelle de nombreuses équipes, souvent regroupées selon des Hautes École ou Université s'affrontent. La pluspart des challenges confrontant les équipes sont du type capture the flag (CTF). Le but étant pour les différents participants de mettre leurs compétences et connaissances à l'épreuve dans des domaines liés à la sécurité informatique. En 2021, pour des raisons sanitaires évidentes, l'épreuve s'est déroulée en distantiel. Avant de participer à cet événememnt je n'avais jamais été amené à réaliser de CTF. Mes coéquipiers et moi étant dans le même état d'esprit, nous nous somme lancés dans la compétition dans le but de nous amuser et de découvrir un maximum de chose. Nous nous somme vite aperçus que nous n'étions clairement pas assez préparés et que que les challenges proposés étaient bien plus complexes que ce que nous pensions. Cepenant, cette expérience m'a permis d'étendre mes horizons ainsi que ma curiosité sur le sujet. J'ai en effet après cet événement découvert une large caummunauté en ligne de gens passionnés de cybersécurité et de challenges de ce type (notamment sur la plateforme Root Me)."
       },
       {
         "title": "Formation Udemy MERN Stack",
         "category": "J'ai suivi une formation Udemy en ligne sur les technologies MongoDB, ExpressJs, NodeJs et ReactJs.",
         "image": "MERN.png",
-        "url": "./data/preuve-Udemy-MERN.pdf"
+        "url": "./data/preuve-Udemy-MERN.pdf",
+        "description": "Udemy est une plateforme en ligne qui propse une multitude de formations, notammement dans le domaine du développement. J'ai choisi cette plateforme pour cette formation car j'ai une bonne expérience avec celle-ci et que les formations proposées sont très complètes et souvent accompagnées de ressources mises à disposition afin de faciliter l'apprentissage. Le seul désavantage de ces formations, c'est qu'elles sont payantes contrairememnt à celles proposées par OpenClassroom par exemple. J'ai suivi ce cours en ligne en ayant pour but de me préparer pour mon travail de fin d'études. En effet, dans le cadre de mon TFE, j'ai réalisé une application web avec les technologies faisant partie de cette pile logicielle. Le MERN stack est l'une des nombreuses variantes du MEAN stack (MongoDB, Express ,Angular , Node), où le Framework frontal Angular est ici remplacé par la bibliothèque Javascript libre React. L'ensemble de ces technologies est une solution complète qui permet de créer un projet en suivant une architecture sur les 3 niveaux. Ce cours m'a permis à la fois d'apprendre ces différents languages et technologies que je n'avais presque jamais abordés auparavant mais aussi de comprendre comment les assembler afin de réaliser un projet dans un environnement de développement clair et efficace."
       },
       {
         "title": "Formation Udemy C#",
-        "category": "J'ai suivi une formation en ligne sur l'apprentissage du C#. Mon maitre de stage m'a partagé ses identifiants Udemy afin de pouvoir m'auto-former sur ce language que j'ai utilisé durant mon stage.",
+        "category": "J'ai suivi une formation en ligne sur l'apprentissage du C#.",
         "image": "Csharp.png",
-        "url": "./data/preuve-Udemy-CSharp.pdf"
+        "url": "./data/preuve-Udemy-CSharp.pdf",
+        "description": "Udemy est une plateforme en ligne qui propse une multitude de formations, notammement dans le domaine du développement. Mon maitre de stage m'a partagé ses identifiants Udemy afin de pouvoir m'auto-former sur ce language que j'ai utilisé durant mon stage. C'est pourquoi les informations sont à son nom. Avant de commencer mon stage, mes connaissances en C# et sur l'environnement .NET était nulle, c'est pourquoi réaliser ces cours en ligne fut très utile pour moi. Certes, ces 2 formations s'addressent aux personnes ayant déjà certaines bases dans ce language mais ce ne fut pas un problème pour moi, au contraire. En effet, même si au début de mon apprentissage certains points abordés représentaient des zones d'ombre, avoir passé en revue ces derniers au préalable m'a permis de plus vite comprendre en tant voulu certaines notions lors de leurs utilisations au sein d'un réel projet. Le C# représente aujourd'hui un des languages avec lequel j'ai le plus apprécié travailler. "
       },
       {
         "title": "Formation Udemy Data Science avec Python",
         "category": "J'ai suivi une formation Udemy en ligne sur le thème de l'analyse de données avec Python.",
         "image": "python.png",
-        "url": "./data/preuve-Udemy-python.pdf"
+        "url": "./data/preuve-Udemy-python.pdf",
+        "description": " Udemy est une plateforme en ligne qui propse une multitude de formations, notammement dans le domaine du développement. J'ai choisi cette plateforme pour cette formation car j'ai une bonne expérience avec celle-ci et que les formations proposées sont très complètes et souvent accompagnées de ressources mises à disposition afin de faciliter l'apprentissage. Le seul désavantage de ces formations, c'est qu'elles sont payantes contrairememnt à celles proposées par OpenClassrooms par exemple. Avant de réaliser ce cours en ligne, j'avais déjà eu l'opportunité d'apprendre et d'utiliser ce language dans le cadre de mes études à l'EPHEC. J'ai pris la décision de suivre cette formation car mon premier contact avec le language m'avait beaucoup plu. De plus, la thématique de cette formation, à savoir l'analyse de données m'intéressait depuis un petit momment. Python est le langage de prédilection pour le traitement et l'analyse des données, cette formation en ligne fut donc une bonne opportunité pour moi."
       },
       {
-        "title": "Formation OpenClassrooms Git et Github",
-        "category": "J'ai suivi une formation OpenClassrooms sur l'utilisation de Git et Github. Le but étant de renforcer mes bonnes pratiques sur l'utilisation de cet outil indispensable dans le monde du développement.",
+        "title": "Formation Git/Github",
+        "category": "J'ai suivi une formation OpenClassrooms sur l'utilisation de Git et Github.",
         "image": "git.png",
-        "url": "./data/preuve-OpenClassrooms-Git.pdf"
+        "url": "./data/preuve-OpenClassrooms-Git.pdf",
+        "description": "Depuis maintenant plus de 20 ans, OpenClassrooms est une plateforme proposant des formations en ligne essentiellement tournées vers la programmation et le monde du développement. La fiabilité de ces formations n'est plus à prouvée. J'ai suivi ce cours en ligne en ayant pour but de renforcer mes bonnes pratiques sur l'utilisation de ces outils indispensables dans le monde du développement que sont Git et Github. En effet, depuis ma première année à l'EPHEC, je suis amené à utilier ces outils afin de versionner le code des différents projets à réaliser. Cepedant, j'ai pu remarquer que ceux-ci était souvent mal utilisés et mal compris par de nombreux étudiants (moi y compris). J'ai donc suivi ce cours afin d'éclaircir ces différentes zones d'ombre et de pouvoir utliser Git et Github à leurs pleins potentiels lors de mes projets futurs."
       },
       {
         "title": "Tableau récapitulatif",
         "category": "",
         "image": "preuves.jpg",
-        "url": "./data/Tableau-preuves.pdf"
+        "url": "./data/Tableau-preuves.pdf",
+        "description": "Vous retrouverez ici un tableau reprenant le nombre d'heures réalisées pour les différentes activités représentées ici."
       }
     ]
   }
